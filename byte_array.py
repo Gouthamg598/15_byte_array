@@ -1,3 +1,10 @@
+'''bytes datatype
+bytes is a immutable'''
+# d=b'python'
+# print(type(d),d)#<class 'bytes'> b'python'
+
+'''bytearray data type it is a mutable'''
+
 # a=bytearray(b'pythom')
 # print(a.index(b'm'))# index position of m=5 
 '''in python ASCII(american standard code for information interchange) values for
